@@ -1,8 +1,6 @@
-# Multilingual Tree-Structured LSTMs for Sentence Semantic Relatedness Task
-# Tree-Structured Long Short-Term Memory Networks
-A [PyTorch](http://pytorch.org/) based implementation of Tree-LSTM from Kai Sheng Tai's paper
-[Improved Semantic Representations From Tree-Structured Long Short-Term Memory
-Networks](http://arxiv.org/abs/1503.00075).
+# Multilingual Tree-Structured LSTMs for the Sentence Semantic Relatedness Task
+A [PyTorch](http://pytorch.org/) implementation of [Tree LSTM](http://arxiv.org/abs/1503.00075) for the sentence semantic relatedness task that supports multilingual input. Most of the code is borrowed from [here](https://github.com/dasguptar/treelstm.pytorch).
+
 
 ### Requirements
 - [PyTorch](http://pytorch.org/)
